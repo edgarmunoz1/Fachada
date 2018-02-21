@@ -1,0 +1,35 @@
+{
+  "name": "fachada",
+  "version": "1.0.0",
+  "description": "Fachada app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fachada/Fachada.git"
+  },
+  "author": "The fachaditos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fachada/Fachada/issues"
+  },
+  "homepage": "https://github.com/Fachada/Fachada#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "1.4.1",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*"
+  }
+}
