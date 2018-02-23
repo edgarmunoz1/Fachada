@@ -266,5 +266,20 @@ textarea{
   top: 135px;
   left: 800px;
 }
+.description{
+  text-align: center;
+  position: absolute;
+  top: 275px;
+  left: 165px;
+  font-size: 50px;
+  margin-left: 550px;
+  margin-top: 10px;
+}
+.personalinfo{
+  text-align:left;
+}
+h5{
+  text-align:left;
+}
 
 ------------------------------------------------
